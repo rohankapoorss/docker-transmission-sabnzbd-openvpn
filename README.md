@@ -5,10 +5,14 @@ It bundles certificates and configurations for the following VPN providers:
 | Provider Name                | Config Value |
 |:-----------------------------|:-------------|
 | Anonine | `ANONINE` |
+| AnonVPN | `ANONVPN` |
+| BlackVPN | `BLACKVPN` |
 | BTGuard | `BTGUARD` |
 | Cryptostorm | `CRYPTOSTORM` |
+| Cypherpunk | `CYPHERPUNK` |
 | FrootVPN | `FROOT` |
 | FrostVPN | `FROSTVPN` |
+| Giganews | `GIGANEWS` |
 | HideMe | `HIDEME` |
 | HideMyAss | `HIDEMYASS` |
 | IntegrityVPN | `INTEGRITYVPN` |
@@ -28,6 +32,7 @@ It bundles certificates and configurations for the following VPN providers:
 | UsenetServerVPN | `USENETSERVER` |
 | Windscribe | `WINDSCRIBE` |
 | VPN.ht | `VPNHT` |
+| VyprVpn | `VYPRVPN` |
 
 When using PIA as provider it will update Transmission hourly with assigned open port. Please read the instructions below.
 
